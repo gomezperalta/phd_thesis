@@ -1,4 +1,4 @@
-<h1> Diccionario de compuestos evaluados por la Red Neuronal </h1>
+<h1> Diccionarios de compuestos evaluados por la Red Neuronal </h1>
 
 Se tienen aquí los diccionarios de los compuestos evaluados por la Red Neuronal. Todos son archivos de Numpy que guardan diccionarios de Python. La Red Neuronal utilizada para hacer estas inferencias fue aquella de cuatro sitios.
 
