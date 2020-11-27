@@ -1,0 +1,1 @@
+Los archivos que aquí se encuentran forma parte del apéndice C de mi tesis doctoral. Estos archivos contienen los compuestos usados en los conjuntos TRAVAL y TEST para desarrollar las redes neuronales artificiales de cuatro, seis y ocho sitios.
