@@ -1,4 +1,4 @@
-Los archivos que aquí se encuentran forman parte del apéndice C de mi tesis doctoral. Estos archivos contienen los compuestos usados en los conjuntos TRAVAL y TEST para desarrollar las redes neuronales artificiales de cuatro, seis y ocho sitios.
+Los archivos que aquí se encuentran forman parte del apéndice C de la tesis doctoral. Estos archivos contienen los compuestos usados en los conjuntos TRAVAL y TEST para desarrollar las redes neuronales artificiales de cuatro, seis y ocho sitios.
 
 Cada entrada corresponde a un compuesto cristalino usado ya sea para entrenar y validar (TRAVAL) o probar (TEST) la red neuronal. Para cada compuesto, se puede encontrar informacion sobre el tipo de compuesto al que pertenece realmente (perovskita o no perovskita), así como el tipo de compuesto que la red cuando ésta ya fue entrenada. También se menciona el grupo espacial, número de sitios de Wyckoff y elementos en la fórmula de cada compuesto. Los números de los archivos CIF corresponden a la base de datos Crystallography Open Database (http://www.crystallography.net/)
 
